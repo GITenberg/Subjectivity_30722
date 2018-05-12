@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '34781'
     url: http://www.gutenberg.org/2009/agents/34781
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30722#Subjectivity
 gutenberg_issued: '2009-12-21'
 gutenberg_type: Text
 identifiers:
